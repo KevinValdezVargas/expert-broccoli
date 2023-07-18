@@ -147,7 +147,7 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
    <widget class="QTableWidget" name="tblEspecialidad">
     <property name="geometry">
      <rect>
-      <x>10</x>
+      <x>20</x>
       <y>170</y>
       <width>621</width>
       <height>251</height>
@@ -156,6 +156,29 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
     <property name="styleSheet">
      <string notr="true">background-color: rgb(255, 255, 255);</string>
     </property>
+    <attribute name="horizontalHeaderDefaultSectionSize">
+     <number>150</number>
+    </attribute>
+    <column>
+     <property name="text">
+      <string>Codigo</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Nombre</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Creditos</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Resolucion</string>
+     </property>
+    </column>
    </widget>
    <widget class="QLineEdit" name="txtNombre_2">
     <property name="geometry">
