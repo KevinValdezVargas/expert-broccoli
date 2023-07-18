@@ -169,7 +169,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QTableWidget" name="tblDocente">
+   <widget class="QTableWidget" name="tblDocentes">
     <property name="geometry">
      <rect>
       <x>10</x>

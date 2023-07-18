@@ -13,7 +13,7 @@ class ventanaDocente(QtWidgets.QMainWindow):
         self.show()
 
     def listar(self):
-        self.tblDocentes.setRowCount(aDoc.tamañoarregloDocente())
+        self.tblDocentes.setRowCount(aDoc.tamañoArregloDocente())
         self.tblDocentes.setColumnCount(5)
         self.tblDocentes.verticalHeader().setVisible(False)
 

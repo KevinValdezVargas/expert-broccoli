@@ -14,7 +14,7 @@ class Login(QtWidgets.QMainWindow):
     def iniciarSesion(self):
         usuario = self.txtName.text().lower()
         contrasena = self.txtPassword.text()
-        if usuario == "admin" and contrasena == "123":
+        if usuario == "zegelipae" and contrasena == "123456":
             self.close()
             vprincipal = VentanaPrincipal(self)
             vprincipal.show()
