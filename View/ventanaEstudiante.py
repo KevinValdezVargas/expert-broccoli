@@ -7,5 +7,5 @@ aEst = mantenimientoEstudiante()
 class ventanaEstudiante(QtWidgets.QMainWindow):
     def __init__(self, parent = None):
         super(ventanaEstudiante,self).__init__(parent)
-        uic.loadUi("",self)
+        uic.loadUi("UI/ventanaEstudiante.ui",self)
         self.show()
