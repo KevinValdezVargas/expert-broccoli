@@ -1,1 +1,11 @@
-B0115, Gestion de la informacion, 150, RS001-2023-ZEGELIPAE 
+B0001, Gestion de la informacion, 150, RS001-2023-ZEGELIPAE
+B0002, Marketing Digital, 100, RS002-2023-ZEGELIPAE
+B0003, Administración de Empresas, 120, RS003-2023-ZEGELIPAE
+B0004, Recursos Humanos, 200, RS004-2023-ZEGELIPAE
+B0005, Contabilidad Financiera, 90, RS005-2023-ZEGELIPAE
+B0006, Ingeniería Industrial, 2200, RS006-2023-ZEGELIPAE
+B0007, Comunicación Organizacional, 100, RS007-2023-ZEGELIPAE
+B0008, Mercadotecnia, 110, RS008-2023-ZEGELIPAE
+B0009, Logística y Cadena de Suministro, 95, RS009-2023-ZEGELIPAE
+B0010, Gestión Ambiental, 150, RS010-2023-ZEGELIPAE
+B0011, Finanzas Corporativas, 200, RS011-2023-ZEGELIPAE
