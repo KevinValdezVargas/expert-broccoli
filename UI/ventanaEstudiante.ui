@@ -172,15 +172,61 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
    <widget class="QTableWidget" name="tblEstudiante">
     <property name="geometry">
      <rect>
-      <x>10</x>
-      <y>200</y>
-      <width>621</width>
+      <x>20</x>
+      <y>190</y>
+      <width>611</width>
       <height>231</height>
      </rect>
     </property>
     <property name="styleSheet">
      <string notr="true">background-color: rgb(255, 255, 255);</string>
     </property>
+    <property name="autoScroll">
+     <bool>true</bool>
+    </property>
+    <property name="tabKeyNavigation">
+     <bool>true</bool>
+    </property>
+    <property name="showDropIndicator" stdset="0">
+     <bool>true</bool>
+    </property>
+    <property name="showGrid">
+     <bool>true</bool>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
+    </property>
+    <property name="cornerButtonEnabled">
+     <bool>true</bool>
+    </property>
+    <attribute name="horizontalHeaderDefaultSectionSize">
+     <number>120</number>
+    </attribute>
+    <column>
+     <property name="text">
+      <string>Codigo</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Nombres</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Apellidos</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Ciclo</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Especialidad</string>
+     </property>
+    </column>
    </widget>
    <widget class="QPushButton" name="btnListar">
     <property name="geometry">
