@@ -1,1 +1,11 @@
 E0001,Cesar Daniel,Anastacio Adrianzen,II,Gestion de la informacion
+E0002, María Fernanda, López Rodríguez, I, Marketing Digital
+E0003, Juan Carlos, Pérez Gómez, III, Administración de Empresas
+E0004, Laura Alejandra, González Méndez, II, Recursos Humanos
+E0005, Roberto Alejandro, Ramírez Torres, I, Contabilidad Financiera
+E0006, Andrea Carolina, Sánchez Cruz, III, Ingeniería Industrial
+E0007, Luis Alberto, Rodríguez Martínez, II, Comunicación Organizacional
+E0008, Gabriela Patricia, Torres Ramírez, I, Mercadotecnia
+E0009, Carlos Eduardo, Gómez Hernández, III, Logística y Cadena de Suministro
+E0010, Ana María, Flores López, II, Gestión Ambiental
+E0011, Juan Manuel, Castro Rodríguez, I, Finanzas Corporativas
