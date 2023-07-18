@@ -22,6 +22,6 @@ class arregloDocente:
             apellidos = columna[2].strip()
             dni = columna[3].strip()
             gradoAcademico = columna[4].strip()
-            objDoc = Producto(codigo, nombres, apellidos, dni, gradoAcademico)
+            objDoc = Docente(codigo, nombres, apellidos, dni, gradoAcademico)
             self.adicionaDocente(objDoc)
         archivo.close()
