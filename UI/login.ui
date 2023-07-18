@@ -20,7 +20,7 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>50</x>
+      <x>60</x>
       <y>30</y>
       <width>371</width>
       <height>71</height>
@@ -43,7 +43,7 @@
    <widget class="QLineEdit" name="txtName">
     <property name="geometry">
      <rect>
-      <x>160</x>
+      <x>170</x>
       <y>150</y>
       <width>201</width>
       <height>31</height>
@@ -59,7 +59,7 @@ border-bottom-color: rgb(99, 169, 255);</string>
    <widget class="QLineEdit" name="txtPassword">
     <property name="geometry">
      <rect>
-      <x>160</x>
+      <x>170</x>
       <y>200</y>
       <width>201</width>
       <height>31</height>
@@ -78,7 +78,7 @@ border-bottom-color: rgb(99, 169, 255);</string>
    <widget class="QPushButton" name="btnIniciar">
     <property name="geometry">
      <rect>
-      <x>160</x>
+      <x>170</x>
       <y>250</y>
       <width>201</width>
       <height>41</height>
@@ -87,7 +87,7 @@ border-bottom-color: rgb(99, 169, 255);</string>
     <property name="font">
      <font>
       <family>Wide Latin</family>
-      <pointsize>22</pointsize>
+      <pointsize>16</pointsize>
       <weight>50</weight>
       <italic>false</italic>
       <bold>false</bold>
@@ -104,10 +104,10 @@ border-bottom-color: rgb(99, 169, 255);</string>
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>20</x>
+      <x>30</x>
       <y>150</y>
       <width>121</width>
-      <height>16</height>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
@@ -131,10 +131,10 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>20</x>
+      <x>30</x>
       <y>210</y>
       <width>111</width>
-      <height>16</height>
+      <height>21</height>
      </rect>
     </property>
     <property name="font">
@@ -159,7 +159,7 @@ color: rgb(255, 255, 255);</string>
    <widget class="QLabel" name="label_4">
     <property name="geometry">
      <rect>
-      <x>370</x>
+      <x>400</x>
       <y>200</y>
       <width>41</width>
       <height>31</height>

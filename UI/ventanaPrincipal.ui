@@ -60,6 +60,10 @@
    </property>
   </action>
   <action name="actionEspecialidad">
+   <property name="icon">
+    <iconset>
+     <normaloff>../View/icons/especialidad.png</normaloff>../View/icons/especialidad.png</iconset>
+   </property>
    <property name="text">
     <string>Especialidad</string>
    </property>
