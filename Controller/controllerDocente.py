@@ -7,33 +7,33 @@ class Docente:
         self.__dni = dni
         self.__gradoAcademico = gradoAcademico
 
-    def getnombres(self):
+    def getNombres(self):
         return self.__nombres
 
-    def setnombres(self, nombres):
+    def setNombres(self, nombres):
         self.__nombres = nombres
 
-    def getapellidos(self):
+    def getApellidos(self):
         return self.__apellidos
 
-    def setapellidos(self, apellidos):
+    def setApellidos(self, apellidos):
         self.__apellidos = apellidos
 
-    def getcodigo(self):
+    def getCodigo(self):
         return self.__codigo
 
-    def setcodigo(self, codigo):
+    def setCodigo(self, codigo):
         self.__codigo = codigo
 
-    def getdni(self):
+    def getDni(self):
         return self.__dni
 
-    def setdni(self, dni):
+    def setDni(self, dni):
         self.__dni = dni
 
-    def getgradoAcademico(self):
+    def getGradoAcademico(self):
         return self.__gradoAcademico
 
-    def setgradoAcademico(self, gradoAcademico):
+    def setGradoAcademico(self, gradoAcademico):
         self.__gradoAcademico = gradoAcademico
 

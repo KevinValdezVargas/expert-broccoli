@@ -1,0 +1,10 @@
+D0001, Kevin Fabricio, Valdez Vargas, 75455411, Técnico
+D0002, Jennifer Mendoza, Córdova García, 89352741, Magister
+D0003, Ricardo Gómez, Sánchez Torres, 61983218, Doctor
+D0004, Andrea López, Rodríguez Márquez, 45678234, Licenciado
+D0005, Juan Carlos Ramírez, Pérez Castro, 27391847, Licenciado
+D0006, Valentina Morales, Paredes, 92834561, Maestría
+D0007, Luis Fernández, González, 19374825, Doctorado
+D0008, Natalia Castro, Vargas, 59826372, Diplomado
+D0009, Mauricio Gutiérrez, Silva Rojas, 49263718, Bachiller
+D0010, Carolina Vargas, Jiménez Montoya, 76093284, Licenciado
