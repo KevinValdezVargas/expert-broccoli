@@ -53,7 +53,7 @@
   <action name="actionEstudiante">
    <property name="icon">
     <iconset>
-     <normaloff>../../../Downloads/reading.png</normaloff>../../../Downloads/reading.png</iconset>
+     <normaloff>../View/icons/student.png</normaloff>../View/icons/student.png</iconset>
    </property>
    <property name="text">
     <string>Estudiante</string>
@@ -67,7 +67,7 @@
   <action name="actionDocente">
    <property name="icon">
     <iconset>
-     <normaloff>../../../Downloads/teacher.png</normaloff>../../../Downloads/teacher.png</iconset>
+     <normaloff>../View/icons/teacher.png</normaloff>../View/icons/teacher.png</iconset>
    </property>
    <property name="text">
     <string>Docente</string>
