@@ -7,27 +7,27 @@ class Especialidad:
         self.__resolucion = resolucion
 
     #METODO GET
-    def getcodigo(self):
+    def getCodigo(self):
         return self.__codigo
     
-    def getnombre(self):
+    def getNombre(self):
         return self.__nombre
     
-    def getcreditos(self):
+    def getCreditos(self):
         return self.__creditos
     
-    def getresolucion(self):
+    def getResolucion(self):
         return self.__resolucion
     
     #METODO SET
-    def setcodigo(self,codigo):
+    def setCodigo(self,codigo):
         self.__codigo = codigo
 
-    def setnombre(self, nombre):
+    def setNombre(self, nombre):
         self.__nombre = nombre
 
-    def setcreditos(self, creditos):
+    def setCreditos(self, creditos):
         self.__creditos = creditos
 
-    def setresolucion(self, resolucion):
+    def setResolucion(self, resolucion):
         self.__resolucion = resolucion
