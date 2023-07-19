@@ -1,4 +1,4 @@
-E0001,Cesar Daniel,Anastacio Adrianzen,II,Gestion de la informacion
+E0001,Cesar Daniel,Anastacio Adrianzen,II,Gestion de la información
 E0002, María Fernanda, López Rodríguez, I, Marketing Digital
 E0003, Juan Carlos, Pérez Gómez, III, Administración de Empresas
 E0004, Laura Alejandra, González Méndez, II, Recursos Humanos

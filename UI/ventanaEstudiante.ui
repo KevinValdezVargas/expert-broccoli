@@ -145,6 +145,11 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
       <height>20</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
    </widget>
    <widget class="QLineEdit" name="txtApellidos">
     <property name="geometry">
@@ -155,6 +160,11 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
       <height>20</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
    </widget>
    <widget class="QLineEdit" name="txtCiclo">
     <property name="geometry">
@@ -164,6 +174,11 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
       <width>151</width>
       <height>20</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
     </property>
    </widget>
    <widget class="QTableWidget" name="tblEstudiante">
@@ -264,6 +279,11 @@ color: white;
       <width>151</width>
       <height>20</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">

@@ -65,6 +65,11 @@ color: white;
       <height>20</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
    </widget>
    <widget class="QPushButton" name="btnListar">
     <property name="geometry">
@@ -163,6 +168,11 @@ color: white;
       <height>20</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
    </widget>
    <widget class="QLineEdit" name="txtApellidos">
     <property name="geometry">
@@ -172,6 +182,11 @@ color: white;
       <width>151</width>
       <height>20</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
     </property>
    </widget>
    <widget class="QLabel" name="label_3">
@@ -198,6 +213,11 @@ color: white;
       <width>151</width>
       <height>20</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
     </property>
    </widget>
    <widget class="QTableWidget" name="tblDocentes">
