@@ -14,10 +14,14 @@
    <string>Ventana Principal</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: rgb(215, 228, 255);
+   <string notr="true">background: #1e1e1e;
+color: white;
 </string>
   </property>
   <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>

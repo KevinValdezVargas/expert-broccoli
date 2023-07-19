@@ -14,9 +14,32 @@
    <string>Ventana Especialidad</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: rgb(215, 228, 255);</string>
+   <string notr="true">QLineEdit
+{
+	background-color: #303030;
+border: none;
+border-radius: 2px;
+padding-left: 2px;
+color: white
+}</string>
   </property>
   <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true">QPushButton:pressed
+{
+  color: green;
+ 
+}
+
+QPushButton
+{
+  background: #1e1e1e;
+	 border-radius: .3em;
+	border: 1px solid white;
+color: white;
+}
+</string>
+   </property>
    <widget class="QPushButton" name="btnListar">
     <property name="geometry">
      <rect>
@@ -26,8 +49,17 @@
       <height>23</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Segoe UI</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <italic>false</italic>
+      <bold>true</bold>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 12pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Listar</string>
@@ -46,7 +78,7 @@
      <string notr="true">font: 12pt &quot;Segoe MDL2 Assets&quot;;</string>
     </property>
     <property name="text">
-     <string>Codigo</string>
+     <string>Código</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_5">
@@ -62,7 +94,7 @@
      <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
     </property>
     <property name="text">
-     <string>Resolucion</string>
+     <string>Resolución</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_4">
@@ -78,7 +110,7 @@
      <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
     </property>
     <property name="text">
-     <string>Creditos</string>
+     <string>Créditos</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="txtResolucion">
@@ -161,7 +193,7 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
     </attribute>
     <column>
      <property name="text">
-      <string>Codigo</string>
+      <string>Código</string>
      </property>
     </column>
     <column>
@@ -171,12 +203,12 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
     </column>
     <column>
      <property name="text">
-      <string>Creditos</string>
+      <string>Créditos</string>
      </property>
     </column>
     <column>
      <property name="text">
-      <string>Resolucion</string>
+      <string>Resolución</string>
      </property>
     </column>
    </widget>
