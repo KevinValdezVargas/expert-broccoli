@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Ventana Principal</string>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(215, 228, 255);
