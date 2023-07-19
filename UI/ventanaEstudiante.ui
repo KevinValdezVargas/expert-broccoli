@@ -294,6 +294,7 @@ color: white;
     </property>
     <property name="font">
      <font>
+      <family>Segoe UI</family>
       <pointsize>10</pointsize>
       <weight>75</weight>
       <bold>true</bold>
