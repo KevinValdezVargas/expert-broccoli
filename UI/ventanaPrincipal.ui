@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>659</width>
+    <width>635</width>
     <height>432</height>
    </rect>
   </property>
@@ -21,15 +21,15 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>210</x>
-      <y>60</y>
-      <width>221</width>
+      <x>200</x>
+      <y>50</y>
+      <width>231</width>
       <height>20</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>14</pointsize>
+      <pointsize>15</pointsize>
      </font>
     </property>
     <property name="text">
@@ -39,15 +39,15 @@
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>200</x>
+      <x>227</x>
       <y>80</y>
-      <width>241</width>
-      <height>31</height>
+      <width>181</width>
+      <height>20</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>20</pointsize>
+      <pointsize>15</pointsize>
       <weight>75</weight>
       <bold>true</bold>
      </font>
@@ -59,17 +59,17 @@
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>240</x>
       <y>120</y>
-      <width>171</width>
-      <height>201</height>
+      <width>141</width>
+      <height>171</height>
      </rect>
     </property>
     <property name="text">
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../View/icons/zegel-logo.png</pixmap>
+     <pixmap>../View/icons/logo-zegel.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -81,7 +81,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>659</width>
+     <width>635</width>
      <height>21</height>
     </rect>
    </property>
