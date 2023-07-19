@@ -179,7 +179,15 @@
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(255, 255, 255);</string>
+     <string notr="true">QTableWidget{
+background-color: #303030;
+color: white;
+border:none;
+}
+QHeaderView::section{
+background-color: #303030;
+color: white;
+}</string>
     </property>
     <attribute name="horizontalHeaderDefaultSectionSize">
      <number>120</number>
