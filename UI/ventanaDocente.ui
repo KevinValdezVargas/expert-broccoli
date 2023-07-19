@@ -53,7 +53,7 @@ color: white;
      <string notr="true">font: 12pt &quot;Segoe MDL2 Assets&quot;;</string>
     </property>
     <property name="text">
-     <string>Codigo</string>
+     <string>Código</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="txtNombre">
@@ -89,6 +89,9 @@ color: white;
       <bold>true</bold>
      </font>
     </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
     <property name="styleSheet">
      <string notr="true"/>
     </property>
@@ -101,12 +104,17 @@ color: white;
      <rect>
       <x>250</x>
       <y>160</y>
-      <width>121</width>
+      <width>151</width>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt  &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Grado académico</string>
@@ -132,12 +140,17 @@ color: white;
      <rect>
       <x>460</x>
       <y>100</y>
-      <width>61</width>
+      <width>91</width>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Apellidos</string>
@@ -152,8 +165,17 @@ color: white;
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Segoe MDL2 Assets</family>
+      <pointsize>12</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>DNI</string>
@@ -198,8 +220,17 @@ color: white;
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Segoe MDL2 Assets</family>
+      <pointsize>12</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Nombre</string>

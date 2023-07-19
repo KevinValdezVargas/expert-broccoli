@@ -80,12 +80,21 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
      <rect>
       <x>260</x>
       <y>100</y>
-      <width>61</width>
+      <width>91</width>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Segoe MDL2 Assets</family>
+      <pointsize>12</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Nombres</string>
@@ -96,12 +105,21 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
      <rect>
       <x>260</x>
       <y>160</y>
-      <width>61</width>
+      <width>91</width>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Segoe MDL2 Assets</family>
+      <pointsize>12</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Apellidos</string>
@@ -116,8 +134,13 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Ciclo</string>
@@ -128,12 +151,21 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
      <rect>
       <x>40</x>
       <y>160</y>
-      <width>81</width>
+      <width>101</width>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Segoe MDL2 Assets</family>
+      <pointsize>12</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt  &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Especialidad</string>
@@ -266,6 +298,9 @@ color: white;
       <weight>75</weight>
       <bold>true</bold>
      </font>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
      <string notr="true"/>

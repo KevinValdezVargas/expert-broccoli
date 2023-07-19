@@ -58,6 +58,9 @@ color: white;
       <bold>true</bold>
      </font>
     </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
+    </property>
     <property name="styleSheet">
      <string notr="true"/>
     </property>
@@ -86,12 +89,17 @@ color: white;
      <rect>
       <x>180</x>
       <y>150</y>
-      <width>81</width>
+      <width>91</width>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Resolución</string>
@@ -102,12 +110,17 @@ color: white;
      <rect>
       <x>330</x>
       <y>150</y>
-      <width>61</width>
+      <width>71</width>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Créditos</string>
@@ -183,12 +196,17 @@ font: 20pt &quot;Segoe MDL2 Assets&quot;;</string>
      <rect>
       <x>330</x>
       <y>90</y>
-      <width>61</width>
+      <width>71</width>
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">font: 11pt &quot;Segoe MDL2 Assets&quot;;</string>
+     <string notr="true"/>
     </property>
     <property name="text">
      <string>Nombre</string>
