@@ -426,7 +426,7 @@
    </palette>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Ventana Docente</string>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(215, 228, 255);
